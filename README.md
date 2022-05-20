@@ -21,7 +21,6 @@ In this project I have analysed two datasets as csv file, using basic Python scr
    * The percentage of votes each candidate won
    * The total number of votes each candidate won
    * The winner of the election based on popular vote.
-  
  ![image](https://user-images.githubusercontent.com/24882457/169515606-3c6fa52a-2c8a-418b-8b7d-1fff7dd78c69.png)
 
 # Contact:
